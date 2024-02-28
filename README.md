@@ -7,8 +7,6 @@ This project presents a digital booking management application designed to enhan
 # Technologies Used
 - HTML/CSS: For designing a user-friendly interface.
 - JavaScript: To handle client-side scripting.
-- Node.js: As the server-side platform to manage requests and responses.
-- MongoDB: For storing and managing room booking data.
 - Git: For version control and collaborative development.
 
 
